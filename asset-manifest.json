@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bootstrapwebsite/static/css/main.c59cc657.css",
+    "main.js": "/bootstrapwebsite/static/js/main.12acda72.js",
+    "index.html": "/bootstrapwebsite/index.html",
+    "main.c59cc657.css.map": "/bootstrapwebsite/static/css/main.c59cc657.css.map",
+    "main.12acda72.js.map": "/bootstrapwebsite/static/js/main.12acda72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c59cc657.css",
+    "static/js/main.12acda72.js"
+  ]
+}
